@@ -1,0 +1,56 @@
+body{
+    font-family:Arial,sans-serif;
+}
+
+#logo{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+#lens{
+    margin: 0;
+    padding: 0;
+    height: auto;
+    width: 25px;
+}
+#box-search{
+    display: flex;
+    margin-right: auto;
+    margin-left: auto;
+    justify-content: center;
+}
+#box-child-search{
+    border: 1px solid rgba(226, 226, 226, 0.897);
+    border-radius: 15px;
+}
+input{
+    
+    border: none;
+    font-size: 20px;
+}
+#logo-conteiner{
+    margin: 0;
+    padding-top: 150px;
+    
+}
+
+#navbar{
+    display: flex;
+    padding: 0;
+    margin: 0;
+    list-style-type: none;
+    font-size: 13px;
+    float: right;
+    
+    
+}
+.nav-item{
+    margin-top: 5px;
+    margin-right: 5px;
+    padding-right: 15px;
+    align-self:center;
+    
+}
+#img-user{
+    border-radius: 100px;
+}
