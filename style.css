@@ -29,11 +29,11 @@ a:hover{
     margin-right: auto;
     margin-left: auto;
     justify-content: center;
-    padding-top: 35px;
+    padding-top: 28px;
 }
 #box-child-search{
     border: 1px solid rgba(226, 226, 226, 0.897);
-    border-radius: 15px;
+    border-radius: 30px;
     margin: auto;
     padding: 10px;
     
