@@ -39,6 +39,12 @@ a:hover{
     
 
 }
+
+#box-child-search:hover{
+
+    box-shadow: 1px 1px 1px 1px rgba(0, 0, 0, 0.185);
+
+}
 input{
     
     border: none;
@@ -49,7 +55,7 @@ input{
 }
 #logo-conteiner{
     margin: 0;
-    padding-top: 200px;
+    padding-top: 183px;
     
 }
 
