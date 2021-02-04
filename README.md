@@ -10,4 +10,11 @@ Day 1:
 	I could place the divs and the img as I wanted when before I did not know how.
 	I search a lot in google but i learn a lot of doing this, is my angel guardian(?).
 	
-	Tomorrow im going to finish this if i can.
+Tomorrow im going to finish this if i can.
+
+Day 2:
+	I finish all the project today, i put all the things that i want to put.
+	I think that my project finish really good and equal to the original.
+	I learned so much doing this project i remember things that i do more than six months ago.
+	
+	Project Finish :D
